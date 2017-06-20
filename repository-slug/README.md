@@ -2,16 +2,16 @@
 
 ## Daftar Isi
 
-- [Latar Belakang] (#latar-belakang)
-- [Batasan] (#batasan)
-- [Soal Kontes] (#soal-kontes)
-- [Soal Training] (#soal-training)
-- [Soal Lainnya] (#soal-lainnya)
-- [Lain-lain] (#lain-lain)
+- [Latar Belakang](#latar-belakang)
+- [Batasan](#batasan)
+- [Soal Kontes](#soal-kontes)
+- [Soal Training](#soal-training)
+- [Soal Lainnya](#soal-lainnya)
+- [Lain-lain](#lain-lain)
 
 ## Latar Belakang
 
-[TLX Repository Gate] (https://repository.ia-toki.org/) adalah tempat untuk meletakan soal-soal yang digunakan di TLX, baik [TLX Training Gate] (https://training.ia-toki.org/) maupun [TLX Competition Gate] (https://competition.ia-toki.org/). Sampai dengan 19 Juni 2017 terdapat 200 kontes berbeda yang terdapat di TLX Competition Gate yang mencakup Pelatnas TOKI, Open OSN, TOKI Open, TOKI Open Contest, Bukalapak Programming Contest (BLPC), dan lain lain. Kontes-kontes ini memiliki panitia yang berbeda-beda, dan setiap panitia kontes harus meletakan soal-soalnya di TLX Repository Gate. 
+[TLX Repository Gate](https://repository.ia-toki.org/) adalah tempat untuk meletakan soal-soal yang digunakan di TLX, baik [TLX Training Gate](https://training.ia-toki.org/) maupun [TLX Competition Gate](https://competition.ia-toki.org/). Sampai dengan 19 Juni 2017 terdapat 200 kontes berbeda yang terdapat di TLX Competition Gate yang mencakup Pelatnas TOKI, Open OSN, TOKI Open, TOKI Open Contest, Bukalapak Programming Contest (BLPC), dan lain lain. Kontes-kontes ini memiliki panitia yang berbeda-beda, dan setiap panitia kontes harus meletakan soal-soalnya di TLX Repository Gate. 
 
 Karena hal itu, terdapat banyak sekali soal yang ada di TLX Repository Gate, tepatnya 1.402 soal sampai dengan 19 Juni 2017. Setiap soal di TLX Repository Gate memiliki sebuah *slug* yang merupakan sebuah string. Karena digunakan sebagai *identifier* (pengenal), slug dari soal yang berbeda tidak boleh sama. 
 
@@ -19,7 +19,7 @@ Terdapat beberapa pasang soal independen (dari kontes yang berbeda) dari 1.402 s
 
 ## Batasan
 
-Slug dari sebuah soal harus mengikuti format yang terdapat pada [dokumentasi Judgels pada bagian Problem Components - Slug] (http://judgels.readthedocs.io/en/latest/operator/sandalphon/problem.html#problems-components), yaitu beberapa kata yang dipisahkan oleh `-` yang mana setiap kata tersusun atas beberapa karakter huruf kecil, angka, atau keduanya.
+Slug dari sebuah soal harus mengikuti format yang terdapat pada [dokumentasi Judgels pada bagian Problem Components - Slug](http://judgels.readthedocs.io/en/latest/operator/sandalphon/problem.html#problems-components), yaitu beberapa kata yang dipisahkan oleh `-` yang mana setiap kata tersusun atas beberapa karakter huruf kecil, angka, atau keduanya.
 
 ## Soal Kontes
 
