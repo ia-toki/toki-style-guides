@@ -28,7 +28,7 @@ Slug dari sebuah soal harus mengikuti format yang terdapat pada [dokumentasi Jud
 
 ### Soal Kontes akan Datang atau sudah Lewat
 
-Jika Anda ingin meletakan soal pada kontes yang sudah lewat (sebagai contoh : untuk digunakan pada Pelatnas TOKI) atau meletakan soal baru untuk digunakan pada kontes yang akan datang (sebagai contoh : soal untuk TOKI Open Contest yang akan datang), slug soal Anda harus mengikuti format dibawah ini
+Jika Anda ingin meletakan soal pada kontes yang sudah lewat (sebagai contoh : untuk digunakan pada Pelatnas TOKI) atau meletakan soal baru untuk digunakan pada kontes yang akan datang (sebagai contoh : soal untuk TOKI Open Contest yang akan datang), slug soal Anda harus mengikuti format di bawah ini
 
 `<nama kontes>-<nama soal>`
 
@@ -50,11 +50,17 @@ Dalam beberapa kasus, beberapa soal dari kontes yang sudah lewat mungkin saja pe
 - Soal asli menggunakan penilaian ICPC-style (tidak terdapat subtask) dan dimodifikasi menjadi soal yang menggunakan penilaian IOI-style (terdapat subtask)
 - Dan lain lain
 
-Dalam kasus ini, slug soal modifikasi ini harus mengikuti format dibawah ini
+Dalam kasus ini, slug soal modifikasi ini harus mengikuti format di bawah ini
 
 `<nama kontes di mana soal asli digunakan>-<nama soal asli>-modified`
 
 Sebagai contoh, soal modifikasi pada soal `toki-open-2017-jump` memiliki slug `toki-open-2017-jump-modified`.
+
+Jika sudah terdapat modifikasi dari soal asli sebelumnya dan Anda ingin membuat modifikasi lainnya, maka Anda harus mengikuti format di bawah ini
+
+`<nama kontes di mana soal asli digunakan>-<nama soal asli>-modified-<indeks modifikasi>`
+
+Sebagai contoh, soal modifikasi lain pada soal `toki-open-2017-jump` memiliki slug `toki-open-2017-jump-modified-2`.
 
 Soal yang menggunakan format slug `<nama kontes>-<nama soal>` tanpa diikuti dengan kata kunci `modified` harus sama persis dengan soal asli yang bersangkutan agar tidak menimbulkan kebingungan.
 
