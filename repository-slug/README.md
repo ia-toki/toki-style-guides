@@ -11,11 +11,11 @@
 
 ## Latar Belakang
 
-[TLX Repository Gate](https://repository.ia-toki.org/) adalah tempat untuk meletakan soal-soal yang digunakan di TLX, baik [TLX Training Gate](https://training.ia-toki.org/) maupun [TLX Competition Gate](https://competition.ia-toki.org/). Sampai dengan 29 Juni 2017 terdapat lebih dari 200 kontes berbeda yang terdapat di TLX Competition Gate yang mencakup Pelatnas TOKI, Open OSN, TOKI Open, TOKI Open Contest, dan lain lain (termasuk kontes yang tidak diselenggarakan oleh TOKI). Kontes-kontes ini memiliki panitia yang berbeda-beda, dan setiap panitia kontes harus meletakan soal-soalnya di TLX Repository Gate.
+[TLX Repository Gate](https://repository.ia-toki.org/) adalah tempat untuk meletakan soal-soal yang digunakan di TLX, baik [TLX Training Gate](https://training.ia-toki.org/) maupun [TLX Competition Gate](https://competition.ia-toki.org/). Terdapat banyak sekali kontes berbeda yang berada di TLX Competition Gate yang mencakup Pelatnas TOKI, Open OSN, TOKI Open, TOKI Open Contest, dan lain lain (termasuk kontes yang tidak diselenggarakan oleh TOKI). Kontes-kontes ini memiliki panitia yang berbeda-beda, dan setiap panitia kontes harus meletakan soal-soalnya di TLX Repository Gate.
 
-Karena hal itu, terdapat lebih dari 1.000 soal yang ada di TLX Repository Gate sampai dengan 29 Juni 2017. Setiap soal di TLX Repository Gate memiliki sebuah *slug* yang merupakan sebuah string. Karena digunakan sebagai *identifier* (pengenal), slug dari soal yang berbeda tidak boleh sama.
+Karena hal itu, terdapat banyak sekali soal yang ada di TLX Repository Gate. Setiap soal di TLX Repository Gate memiliki sebuah *slug* yang merupakan sebuah string. Karena digunakan sebagai *identifier* (pengenal), slug dari soal yang berbeda tidak boleh sama.
 
-Terdapat beberapa pasang soal independen (dari kontes yang berbeda) dari lebih dari 1.000 soal ini yang memiliki judul soal yang mungkin saja sama. Sebagai contoh : `Tebak Angka` adalah judul soal yang lumayan umum walaupun dua soal dengan judul `Tebak Angka` mungkin saja berbeda soalnya. Menggunakan `tebak-angka` sebagai slug bukanlah ide yang baik. Karenanya, dokumen ini dibentuk agar dua soal yang berbeda (walaupun dengan judul soal yang sama) tidak memiliki slug yang sama.
+Terdapat beberapa pasang soal independen (dari kontes yang berbeda) dari soal-soal ini yang memiliki judul soal yang mungkin saja sama. Sebagai contoh : `Tebak Angka` adalah judul soal yang lumayan umum walaupun dua soal dengan judul `Tebak Angka` mungkin saja berbeda soalnya. Menggunakan `tebak-angka` sebagai slug bukanlah ide yang baik. Karenanya, dokumen ini dibentuk agar dua soal yang berbeda (walaupun dengan judul soal yang sama) tidak memiliki slug yang sama.
 
 ## Batasan
 
