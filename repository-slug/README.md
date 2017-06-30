@@ -34,11 +34,11 @@ Jika Anda ingin meletakan soal pada kontes yang sudah lewat (sebagai contoh : un
 
 Sebagai contoh, `toki-open-2017-jump`, `osn-informatika-2012-sungai-biner`, `gemastik-2016-final-e-irigasi` adalah contoh slug yang baik.
 
-#### Bagian <nama kontes>
+#### Bagian `<nama kontes>`
 
 Bagian nama kontes harus mengidentifikasikan kontes secara **unik** di mana soal ini digunakan. Sebagai contoh, jika soal ini digunakan untuk TOKI Open Contest Februari 2017, maka `toki-open-contest` adalah contoh yang salah, karena terdapat beberapa TOKI Open Contest. Contoh yang benar adalah `toki-open-contest-feb-2017`, `toki-oc-feb-2017`, atau sebagainya. Walaupun demikian, kontes yang serupa sebaiknya memiliki format yang serupa. Sebagai contoh, bagian slug nama kontes untuk soal TOKI Open Contest selalu menggunakan format `toki-oc-<bulan>-<tahun>`.
 
-#### Bagian <nama soal>
+#### Bagian `<nama soal>`
 
 Bagian nama soal harus mengidentifikasikan soal secara **unik** pada kontes di mana soal ini digunakan. Sebagai contoh, jika soal berjudul `Hello World` digunakan untuk sebuah kontes dan pada kontes ini juga terdapat soal berjudul `Hello Lagi`, maka `hello` adalah contoh yang salah, karena terdapat beberapa soal berjudul `hello`. Contoh yang benar adalah `hello-world`, `world`, atau sebagainya.
 
