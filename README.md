@@ -1,6 +1,5 @@
-# TOKI Style Guide
+# TOKI Style Guides
 
-Repository ini berisi beberapa konvensi yang dibuat oleh TOKI agar seluruh kontributor memiliki `style` yang seragam.
+This repository consists of conventions for TOKI contributors.
 
-1. [TLX Repository Gate Problem Slug Style Guide](repository-slug/)
-2. TOKI Problem Description Style Guide (TBA)
+1. [TLX Problem Slug Style Guide](problem-slug/)
