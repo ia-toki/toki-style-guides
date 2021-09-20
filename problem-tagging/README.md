@@ -96,3 +96,9 @@ Consider all individual intended solutions. <ins>For each intended solution</ins
      , and none of their subtags were picked because the solution actually does not use any specific concepts under those tags.
    * DON'T pick `ad hoc` tag if none of the above conditions are satisifed. 
 5. Note that all the above rules apply to each intended solution. There are no rules for tags between two solutions. For example, if there are two possible intended solutions, one uses `dynamic programming` and one uses `ad hoc` (simple observation), it is OK to have {`ad hoc`, `dynamic programming`} as the final tags.
+
+---
+
+This document is written by:
+
+- Ashar Fuadi

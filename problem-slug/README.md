@@ -100,4 +100,7 @@ Contoh :+1:: `dengklek-UNUSED-commit-error`.
 
 ---
 
-Dokumen ini ditulis dan diurus oleh @fushar dan @jonathanirvings.
+Dokumen ini ditulis oleh:
+
+- Ashar Fuadi
+- Jonathan Irvin Gunawan
