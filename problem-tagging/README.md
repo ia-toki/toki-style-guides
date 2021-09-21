@@ -50,9 +50,11 @@ Consider all individual intended solutions. <ins>For each intended solution</ins
         * Pick this tag if the solution needs segment tree with <ins>lazy propagation</ins>.
       * `:prefix sum`
         * Pick this tag if prefix sum is the <ins>main idea</ins> of the solution.
-        * Don't pick this tag if prefix sum is just for optimizing e.g. larger DP transition.
+        * Don't pick this tag if prefix sum is not the main idea. For example:
+          * It is just for optimizing larger DP transition.
+          * It is used inside `searching: two pointers` solution.
       * `:stack` / `:deque` / `:heap` / `:binary search tree`
-        * Pick these tags if they are used for nontrivially as part of a larger solution. Example: stack is used as a monotonic stack to optimize a DP solutio.
+        * Pick these tags if they are used for nontrivially as part of a larger solution. Example: stack is used as a monotonic stack to optimize a DP solution.
 
    - `dynamic programming`
      * `:combinatorics`
