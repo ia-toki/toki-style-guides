@@ -58,8 +58,9 @@ Consider all individual intended solutions. <ins>For each intended solution</ins
 
    - `dynamic programming`
      * `:combinatorics`
-       * Pick this tag if the DP is about <ins>counting</ins> number of ways.
-       * Pick this tag if the DP needs counting the number of ways to solve the problem. Example: printing the K-th lexicographically smallest sequence.
+       * Pick this tag if the DP is about <ins>counting</ins> number of ways, or a larger solution which needs it, for example:
+         * printing the <ins>K-th lexicographically</ins> smallest sequence.
+         * computing <ins>probabilities</ins>.
      * `:tree`
        * If this tag is picked, no need to also pick `tree` tag.
 
