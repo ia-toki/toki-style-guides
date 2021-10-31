@@ -82,7 +82,6 @@ Consider all individual intended solutions. <ins>For each intended solution</ins
 
 3. For each top-level tag, always try to see if a more specific subtag <ins>can</ins> be picked. If so, pick the subtag.
    * Exception: for each of these tags, if it is picked, at least one of its subtags <ins>MUST</ins> be picked. If there is no appropriate subtag, <ins>DON'T</ins> pick the tag at all (because it does not make sense for them to appear on their own).
-     * `data structure`
      * `searching`
      * `string`
      * `optimization trick`
